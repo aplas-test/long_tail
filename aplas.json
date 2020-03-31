@@ -1,23 +1,27 @@
 {
-  "id": "long_tail",
-  "name": "Long Tail",
-  "categoryId": "core",
-  "description": "Intuitive radical instruction set",
-  "investment_24m": "434",
-  "hostedtype": "OnPremise",
-  "vendor_contact_name": "Nikita Pankhurst.",
-  "licensing_cost": "47",
-  "status_color": "#00FF00",
-  "type": "InHouseDev",
-  "support_cost": "10",
-  "deployment_date": "11/1/09",
-  "end_of_maintenance": "5/11/17",
-  "department": "Legal",
-  "status": "Active",
-  "end_of_life": "24/5/20",
-  "vendor_email": "Nikita.Pankhurst.@Microsoft.com",
-  "months_to_renew_support": "0",
-  "sme_email": "Marie-ann.Kliement@memento.net.au",
-  "vendor_phone": "+86 327 210 9550",
-  "investment_number": "377"
+  "applications": [
+    {
+      "id": "long_tail",
+      "name": "Long Tail",
+      "categoryId": "core",
+      "description": "Intuitive radical instruction set",
+      "investment_24m": "434",
+      "hostedtype": "OnPremise",
+      "vendor_contact_name": "Nikita Pankhurst.",
+      "licensing_cost": "47",
+      "status_color": "#00FF00",
+      "type": "InHouseDev",
+      "support_cost": "10",
+      "deployment_date": "11/1/09",
+      "end_of_maintenance": "5/11/17",
+      "department": "Legal",
+      "status": "Active",
+      "end_of_life": "24/5/20",
+      "vendor_email": "Nikita.Pankhurst.@Microsoft.com",
+      "months_to_renew_support": "0",
+      "sme_email": "Marie-ann.Kliement@memento.net.au",
+      "vendor_phone": "+86 327 210 9550",
+      "investment_number": "377"
+    }
+  ]
 }
