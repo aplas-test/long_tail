@@ -21,7 +21,28 @@
       "months_to_renew_support": "0",
       "sme_email": "Marie-ann.Kliement@memento.net.au",
       "vendor_phone": "+86 327 210 9550",
-      "investment_number": "377"
+      "investment_number": "377",
+      "integrations": [
+        {
+          "id": "int-118",
+          "name": "INT-118",
+          "categoryId": "8b222828-21a4-4c70-8033-e7ea01923c61",
+          "description": "Proin eu mi.",
+          "sourceApplicationId": "long_tail",
+          "targetApplicationId": "tiger_web",
+          "logical_server": "BATCH",
+          "status_color": "#00FF00",
+          "pattern": "File Delivery",
+          "golive_date": "4/1/07",
+          "sme_name": "Myranda McChruiter",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "mmcchruiterd@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "3/7/17"
+        }
+      ]
     }
   ]
 }
