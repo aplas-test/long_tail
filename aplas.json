@@ -28,7 +28,6 @@
           "name": "INT-118",
           "categoryId": "8b222828-21a4-4c70-8033-e7ea01923c61",
           "description": "Proin eu mi.",
-          "sourceApplicationId": "long_tail",
           "targetApplicationId": "tiger_web",
           "logical_server": "BATCH",
           "status_color": "#00FF00",
